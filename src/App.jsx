@@ -36,7 +36,7 @@ const App = () => {
 
             className="border-2 border-gray-500 outline-none py-2 px-4 rounded h-15"
             type="text"
-            placeholder="Enter your name"
+            placeholder="Enter your task's name"
           />
           <textarea
             value={message}
